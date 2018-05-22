@@ -704,6 +704,7 @@ class UrlTransliterate
             "þ" => "th",
             "Þ" => "TH",
             "–" => '-',
+            "°" => "",
         );
     }
 }
